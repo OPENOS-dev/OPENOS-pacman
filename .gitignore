@@ -1,1 +1,4 @@
 .DS_Store
+.DS_Store
+src/pacman.git/build-aux/*
+!src/pacman.git/build-aux/
